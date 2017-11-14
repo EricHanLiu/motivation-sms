@@ -4,7 +4,7 @@ Send yourself an SMS every **n** minutes to motivate yourself.
 ## How to use 
 Clone the repository. 
 
-Then, you must setup a [Twilio] (https://www.twilio.com/) account.
+Then, you must setup a [Twilio](https://www.twilio.com/) account.
 
   1. On the homepage, click the **SIGN UP** button in the top right corner.
   2. Create your account and follow the instructions to verify your account.
